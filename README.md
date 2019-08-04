@@ -25,9 +25,9 @@ The [`basic`](/basic) directory contains the basics of an application with all o
 dependencies and renders a simple component. This app **does not** tree shake
 the excess Font Awesome icons.
 
-### `import-used-only`
+### `import-only-used`
 
-The [`import-used-only`](/import-used-only) directory updates the basic example
+The [`import-only-used`](/import-only-used) directory updates the basic example
 to import only the icons used and add them to the Font Awesome library.
 
 ### `explicit-import`
