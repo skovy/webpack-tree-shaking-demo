@@ -20,6 +20,6 @@ like to see. For example:
 
 ### `basic`
 
-The [`basic`](/tree/master/basic) directory contains the basics of an application with all of these
+The [`basic`](/basic) directory contains the basics of an application with all of these
 dependencies and renders a simple component. This app **does not** tree shake
 the excess Font Awesome icons.
